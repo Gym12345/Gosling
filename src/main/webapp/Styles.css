@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+    /* Style for the progress container */
+    #progressContainer {
+        width: 100%;
+        height: 10px;
+        background-color: #ccc;
+    }
+    .goslingBackground {
+        background-image: url('Images/Gosling.png');
+			
+        background-size: cover;
+      
+    }
+    .iDriveButton {
+	    text-align: center;
+	    background-color: purple;
+	    color: yellow;
+	    padding: 30px 60px;
+	    border: none;
+	    border-radius: 5px;
+	    cursor: pointer;
+	    font-size: 22px;
+  }
+  .LiterallyButton {
+	    text-align: center;
+	    background-color: purple;
+	    color: yellow;
+	    padding: 30px 60px;
+	    border: none;
+	    border-radius: 5px;
+	    cursor: pointer;
+	    font-size: 22px;
+  }
+  .ireneBackground {
+        background-image: url('Images/Irene.png');
+			
+        background-size: cover;
+      
+    }
+  
+  
+ 
