@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>goslingMain</title>
-    <link rel="stylesheet" type="text/css" href="../Styles.css">
+    <link rel="stylesheet" type="text/css" href="../css/Styles.css">
 </head>
 <body>
 	
