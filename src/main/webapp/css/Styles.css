@@ -8,7 +8,7 @@
         background-color: #ccc;
     }
     .goslingBackground {
-        background-image: url('Images/Gosling.png');
+        background-image: url('../Images/Gosling.png');
 			
         background-size: cover;
       
@@ -34,7 +34,7 @@
 	    font-size: 22px;
   }
   .ireneBackground {
-        background-image: url('Images/Irene.png');
+        background-image: url('../Images/Irene.png');
 			
         background-size: cover;
       

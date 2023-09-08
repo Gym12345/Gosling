@@ -4,14 +4,14 @@
 <html>
 <head>
     <title>goslingMain</title>
-    <link rel="stylesheet" type="text/css" href="Styles.css">
+    <link rel="stylesheet" type="text/css" href="../Styles.css">
 </head>
 <body>
 	
     
     
     <audio id="audioPlayer" controls autoplay >
-        <source src="Songs/nightcall.mp4" type="audio/mp4">
+        <source src="../Songs/nightcall.mp4" type="audio/mp4">
        
     </audio>
    

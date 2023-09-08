@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>ireneMain</title>
-    <link rel="stylesheet" type="text/css" href="Styles.css">
+    <link rel="stylesheet" type="text/css" href="../Styles.css">
 
 </head>
 <body>
